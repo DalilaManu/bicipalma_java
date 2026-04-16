@@ -4,7 +4,7 @@
   <artifactId>appalma</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <url>https://github.com/yolisobral/bici_palma_java.git</url>
+  <url>https://github.com/DalilaManu/bicipalma_java</url>
 
    <properties>
 		<maven.compiler.source>21</maven.compiler.source>
